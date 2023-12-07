@@ -72,3 +72,6 @@ mat = [
 
 print(tmbayin_ket(mat))
 
+
+ash = 12
+ba_heto = 31
