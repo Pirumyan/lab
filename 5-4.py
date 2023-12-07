@@ -3,8 +3,8 @@ def mta_simetrik(mat):
     return matTranspos == mat
 
 
-# mat = [[1,2,3],[2, 4, 5], [3,5,8]]
-# print(mta_simetrik(mat))
+mat = [[1,2,3],[2, 4, 5], [3,5,8]]
+print(mta_simetrik(mat))
 
 
 def det():
