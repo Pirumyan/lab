@@ -11,7 +11,7 @@ def tap(matrix: list) -> list:
     return res if len(res) > 0 else None
 
 
-# Example usage:
+
 matrix = [[3, 1, 4],
           [5, 2, 6],
           [9, 7, 8]]
